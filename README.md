@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rohan Mudgalkar</h1>
 <h3 align="center">Analytically minded self starter with a strong passion for data science and analytics</h3>
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
----
+
 
 
 
 - 🔭 I’m currently working as a Data Scientist Intern at **Bayer**
+- :closed_book: I'm a graduate student at the University of Illinois Urbana Champaign
 - 👨‍💻 All of my projects are available [here](https://github.com/Rohan9920?tab=repositories)
 - 📫 Reach out to me at **rohan.mudgalkar@gmail.com**
 
----
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me: ##
 <p align="left">
-<a href="https://linkedin.com/in/rohan-mudgalkar-27703b199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-mudgalkar-27703b199" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/rohan-mudgalkar-27703b199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://twitter.com/rohan_mudgalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 
----
+
+
 
 ## Languages and Tools: ###
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,7 +37,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
----
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan9920&theme=dark" alt="rohan9920" /></p>
 <br></br>
