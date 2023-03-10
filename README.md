@@ -41,5 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan9920&theme=dark" alt="rohan9920" /></p>
 <br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan9920&show_icons=true&theme=dark&locale=en&layout=compact" alt="rohan9920" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rohan9920&show_icons=true&theme=dark&locale=en&layout=compact" alt="rohan9920" /></p>
 
