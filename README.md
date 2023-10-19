@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working as a Data Scientist at **Bayer**
-- :closed_book: I'm a graduate student at the University of Illinois Urbana Champaign
+- :closed_book: University of Illinois Urbana Champaign alum
 - 👨‍💻 All of my projects are available [here](https://github.com/Rohan9920?tab=repositories)
 - 📫 Reach out to me at **rohan.mudgalkar@gmail.com**
 
